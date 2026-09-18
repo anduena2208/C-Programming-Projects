@@ -13,13 +13,13 @@ Acest repository contine o colectie de proiecte dezvoltate in limbajul C, realiz
 Repository-ul este impartit in trei directoare principale, fiecare corespunzand unui set specific de aplicatii:
 
 ### 1. Window join & Akari & Helicopters
-Acest modul se concentreaza pe manipularea matricilor, a vectorilor si utilizarea functiilor algoritmice pe seturi de date[cite: 9].
+Acest modul se concentreaza pe manipularea matricilor, a vectorilor si utilizarea functiilor algoritmice pe seturi de date.
 * **Window Join:** Procesarea unui flux de date temporale pentru calculul CMMDC si CMMMC pe ferestre glisante.
 * **Akari (Light Up):** Simularea jocului de puzzle pe grid, incluzand logica de propagare a luminii si validarea regulilor de plasare a surselor.
 * **Helicopters:** Analiza geometrica a matricilor pentru calcularea zonelor de umbra generate de ipotenuzele elicopterelor.
 
 ### 2. Battleships
-Proiect complex axat pe alocare dinamica si criptare[cite: 9].
+Proiect complex axat pe alocare dinamica si criptare.
 * **Jocul Battleships:** Simularea jocului pe table alocate dinamic, cu gestionarea coordonatelor si a orientarii navelor.
 * **Statistics:** Calculul acuratetei atacurilor, determinand scenariile minime/maxime necesare pentru a atinge un prag procentual dorit.
 * **Hill Cipher:** Securizarea rezultatelor folosind un algoritm de criptare/decriptare pe matrice 3x3, aplicat pe un alfabet extins de 37 de caractere.
