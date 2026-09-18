@@ -38,5 +38,4 @@ O aplicatie interactiva de procesare a imaginilor (PPM P6) bazata pe gestiunea s
 Fiecare proiect contine un fisier `Makefile` dedicat pentru automatizarea procesului de compilare. Pentru a compila si testa oricare dintre teme, navigati in directorul corespunzator si rulati comanda de build:
 
 ```bash
-cd "Nume Folder"
 make build
